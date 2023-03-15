@@ -60,8 +60,8 @@ class EligibilityforAdmission
 ~~~
 
 ## Output:
-![output](op1.png)
-![output](op2.png)
+![output](op1.jpg)
+![output](op2.jpg)
 
 ## Result:
 Thus, C# program to find the eligibility for admission to an engineering course has been executed successfully.
